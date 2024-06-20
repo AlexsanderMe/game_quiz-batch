@@ -45,8 +45,9 @@ GameQuiz is a simple game developed using a Windows batch script (.bat) that off
 
 ##
 <div>
-    <img src="screenshots/graphic.jpg" alt="Game Level" width="600">
+    <img src="screenshots/graphic.jpg" alt="Game Explanation" width="600">
 </div>
+*with explanation of the answers*
 
 ## System Requirements
 
