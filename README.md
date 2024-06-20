@@ -54,7 +54,8 @@ GameQuiz is a simple game developed using a Windows batch script (.bat) that off
 
 ## Notes
 
-This project demonstrates how creativity and programming logic can be applied early on using simple and accessible tools like Windows batch scripts. It serves as a great starting point for beginners exploring basic logic, flow control, and user interaction concepts.
+   - Please note that this project was not fully completed. Feel free to modify it and add new levels if you wish.
+   - This project demonstrates how creativity and programming logic can be applied early on using simple and accessible tools like Windows batch scripts. It serves as a great starting point for beginners exploring basic logic, flow control, and user interaction concepts.
 
 ## License
 
